@@ -47,6 +47,8 @@ def rectangle_area()->None:
  
  return None
 
+rectangle_area()
+
 #Q3 
 #Ask a user to enter their first name and their age and assign it to the variables name and age. 
 #The variable name should be a string and the variable age should be an int.  
@@ -70,3 +72,5 @@ def happy_birthday()->None:
   print("Please input a number for age")
   
  return None
+
+happy_birthday()
